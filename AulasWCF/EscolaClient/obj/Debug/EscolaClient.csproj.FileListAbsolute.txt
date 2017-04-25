@@ -1,0 +1,12 @@
+D:\10NET\AulasWCF\EscolaClient\bin\Debug\EscolaClient.exe.config
+D:\10NET\AulasWCF\EscolaClient\bin\Debug\EscolaClient.exe
+D:\10NET\AulasWCF\EscolaClient\bin\Debug\EscolaClient.pdb
+D:\10NET\AulasWCF\EscolaClient\obj\Debug\EscolaClient.csprojResolveAssemblyReference.cache
+D:\10NET\AulasWCF\EscolaClient\obj\Debug\EscolaClient.Form1.resources
+D:\10NET\AulasWCF\EscolaClient\obj\Debug\EscolaClient.Properties.Resources.resources
+D:\10NET\AulasWCF\EscolaClient\obj\Debug\EscolaClient.csproj.GenerateResource.Cache
+D:\10NET\AulasWCF\EscolaClient\obj\Debug\EscolaClient.exe
+D:\10NET\AulasWCF\EscolaClient\obj\Debug\EscolaClient.pdb
+D:\10NET\FiapWCF\AulasWCF\EscolaClient\bin\Debug\EscolaClient.exe.config
+D:\10NET\FiapWCF\AulasWCF\EscolaClient\obj\Debug\EscolaClient.exe
+D:\10NET\FiapWCF\AulasWCF\EscolaClient\obj\Debug\EscolaClient.pdb

@@ -1,0 +1,5 @@
+D:\10NET\AulasWCF\EscolaEntities\bin\Debug\EscolaEntities.dll
+D:\10NET\AulasWCF\EscolaEntities\bin\Debug\EscolaEntities.pdb
+D:\10NET\AulasWCF\EscolaEntities\obj\Debug\EscolaEntities.csprojResolveAssemblyReference.cache
+D:\10NET\AulasWCF\EscolaEntities\obj\Debug\EscolaEntities.dll
+D:\10NET\AulasWCF\EscolaEntities\obj\Debug\EscolaEntities.pdb

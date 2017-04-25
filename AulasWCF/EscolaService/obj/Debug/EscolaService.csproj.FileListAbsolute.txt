@@ -1,0 +1,8 @@
+D:\10NET\AulasWCF\EscolaService\bin\Debug\EscolaService.dll.config
+D:\10NET\AulasWCF\EscolaService\bin\Debug\EscolaService.dll
+D:\10NET\AulasWCF\EscolaService\bin\Debug\EscolaService.pdb
+D:\10NET\AulasWCF\EscolaService\bin\Debug\EscolaEntities.dll
+D:\10NET\AulasWCF\EscolaService\bin\Debug\EscolaEntities.pdb
+D:\10NET\AulasWCF\EscolaService\obj\Debug\EscolaService.csprojResolveAssemblyReference.cache
+D:\10NET\AulasWCF\EscolaService\obj\Debug\EscolaService.dll
+D:\10NET\AulasWCF\EscolaService\obj\Debug\EscolaService.pdb

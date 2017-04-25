@@ -1,0 +1,10 @@
+D:\10NET\AulasWCF\EscolaSelfhost\bin\Debug\EscolaSelfhost.exe.config
+D:\10NET\AulasWCF\EscolaSelfhost\bin\Debug\EscolaSelfhost.exe
+D:\10NET\AulasWCF\EscolaSelfhost\bin\Debug\EscolaSelfhost.pdb
+D:\10NET\AulasWCF\EscolaSelfhost\bin\Debug\EscolaService.dll
+D:\10NET\AulasWCF\EscolaSelfhost\bin\Debug\EscolaEntities.dll
+D:\10NET\AulasWCF\EscolaSelfhost\bin\Debug\EscolaService.pdb
+D:\10NET\AulasWCF\EscolaSelfhost\bin\Debug\EscolaEntities.pdb
+D:\10NET\AulasWCF\EscolaSelfhost\obj\Debug\EscolaSelfhost.csprojResolveAssemblyReference.cache
+D:\10NET\AulasWCF\EscolaSelfhost\obj\Debug\EscolaSelfhost.exe
+D:\10NET\AulasWCF\EscolaSelfhost\obj\Debug\EscolaSelfhost.pdb

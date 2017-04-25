@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8004e63a-a3f7-429f-84fe-e3a8b664d0f2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:4232/NotasService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="NotasService.xsd" MetadataType="Schema" ID="4ec29a1d-f65f-4e40-872e-0aa754fb0054" SourceId="1" SourceUrl="http://localhost:4232/NotasService.svc?xsd=xsd0" />
+    <MetadataFile FileName="NotasService.disco" MetadataType="Disco" ID="e6a1b6d5-34b2-44e2-9e77-129efccda538" SourceId="1" SourceUrl="http://localhost:4232/NotasService.svc?disco" />
+    <MetadataFile FileName="NotasService1.xsd" MetadataType="Schema" ID="f1c6c0a0-0d47-4e22-86d6-f59514f1cfa4" SourceId="1" SourceUrl="http://localhost:4232/NotasService.svc?xsd=xsd2" />
+    <MetadataFile FileName="NotasService.wsdl" MetadataType="Wsdl" ID="e9d90805-9dce-4e96-864b-29f87c84687e" SourceId="1" SourceUrl="http://localhost:4232/NotasService.svc?wsdl" />
+    <MetadataFile FileName="NotasService2.xsd" MetadataType="Schema" ID="d433f5e5-c023-4427-87fa-4d5916842cfe" SourceId="1" SourceUrl="http://localhost:4232/NotasService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
