@@ -15,7 +15,9 @@ namespace EscolaService
         List<Disciplina> GetDisciplinas();
         [OperationContract]
         List<Aluno> GetAlunos();
+
         [OperationContract]
+        [TransactionFlow(TransactionFlowOption.Allowed)]
         void EnviarNotas(Nota nota);
     }
 }
