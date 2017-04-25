@@ -1,0 +1,8 @@
+D:\10NET\FiapWCF\LojaWCF\LojaService\bin\Debug\LojaService.dll.config
+D:\10NET\FiapWCF\LojaWCF\LojaService\bin\Debug\LojaService.dll
+D:\10NET\FiapWCF\LojaWCF\LojaService\bin\Debug\LojaService.pdb
+D:\10NET\FiapWCF\LojaWCF\LojaService\bin\Debug\LojaEntities.dll
+D:\10NET\FiapWCF\LojaWCF\LojaService\bin\Debug\LojaEntities.pdb
+D:\10NET\FiapWCF\LojaWCF\LojaService\obj\Debug\LojaService.csprojResolveAssemblyReference.cache
+D:\10NET\FiapWCF\LojaWCF\LojaService\obj\Debug\LojaService.dll
+D:\10NET\FiapWCF\LojaWCF\LojaService\obj\Debug\LojaService.pdb

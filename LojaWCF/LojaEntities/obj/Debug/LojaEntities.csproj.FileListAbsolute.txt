@@ -1,0 +1,4 @@
+D:\10NET\FiapWCF\LojaWCF\LojaEntities\bin\Debug\LojaEntities.dll
+D:\10NET\FiapWCF\LojaWCF\LojaEntities\bin\Debug\LojaEntities.pdb
+D:\10NET\FiapWCF\LojaWCF\LojaEntities\obj\Debug\LojaEntities.dll
+D:\10NET\FiapWCF\LojaWCF\LojaEntities\obj\Debug\LojaEntities.pdb

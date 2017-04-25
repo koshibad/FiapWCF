@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace LojaService
 {
+    [ServiceContract]
     public interface IVendasService
     {
         [OperationContract]

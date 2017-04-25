@@ -1,0 +1,10 @@
+D:\10NET\FiapWCF\LojaWCF\LojaSefHost\bin\Debug\LojaSefHost.exe.config
+D:\10NET\FiapWCF\LojaWCF\LojaSefHost\bin\Debug\LojaSefHost.exe
+D:\10NET\FiapWCF\LojaWCF\LojaSefHost\bin\Debug\LojaSefHost.pdb
+D:\10NET\FiapWCF\LojaWCF\LojaSefHost\bin\Debug\LojaService.dll
+D:\10NET\FiapWCF\LojaWCF\LojaSefHost\bin\Debug\LojaEntities.dll
+D:\10NET\FiapWCF\LojaWCF\LojaSefHost\bin\Debug\LojaService.pdb
+D:\10NET\FiapWCF\LojaWCF\LojaSefHost\bin\Debug\LojaEntities.pdb
+D:\10NET\FiapWCF\LojaWCF\LojaSefHost\obj\Debug\LojaSefHost.csprojResolveAssemblyReference.cache
+D:\10NET\FiapWCF\LojaWCF\LojaSefHost\obj\Debug\LojaSefHost.exe
+D:\10NET\FiapWCF\LojaWCF\LojaSefHost\obj\Debug\LojaSefHost.pdb
