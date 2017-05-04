@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\bin\Debug\EscolaClient.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\bin\Debug\EscolaClient.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\bin\Debug\EscolaClient.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\obj\Debug\EscolaClient.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\obj\Debug\EscolaClient.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\obj\Debug\EscolaClient.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\obj\Debug\EscolaClient.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\obj\Debug\EscolaClient.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\obj\Debug\EscolaClient.pdb
+D:\10NET\FiapWCF\AulasWCF_2\EscolaClient\bin\Debug\EscolaClient.exe.config
+D:\10NET\FiapWCF\AulasWCF_2\EscolaClient\obj\Debug\EscolaClient.exe
+D:\10NET\FiapWCF\AulasWCF_2\EscolaClient\obj\Debug\EscolaClient.pdb
+D:\10NET\FiapWCF\AulasWCF_2\EscolaClient\bin\Debug\EscolaClient.exe
+D:\10NET\FiapWCF\AulasWCF_2\EscolaClient\bin\Debug\EscolaClient.pdb
+D:\10NET\FiapWCF\AulasWCF_2\EscolaClient\obj\Debug\EscolaClient.csprojResolveAssemblyReference.cache
+D:\10NET\FiapWCF\AulasWCF_2\EscolaClient\obj\Debug\EscolaClient.Form1.resources
+D:\10NET\FiapWCF\AulasWCF_2\EscolaClient\obj\Debug\EscolaClient.Properties.Resources.resources
+D:\10NET\FiapWCF\AulasWCF_2\EscolaClient\obj\Debug\EscolaClient.csproj.GenerateResource.Cache

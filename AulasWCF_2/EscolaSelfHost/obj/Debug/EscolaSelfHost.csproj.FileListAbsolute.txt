@@ -1,0 +1,22 @@
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaSelfHost\bin\Debug\EscolaSelfHost.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaSelfHost\bin\Debug\EscolaSelfHost.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaSelfHost\bin\Debug\EscolaSelfHost.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaSelfHost\bin\Debug\EscolaService.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaSelfHost\bin\Debug\EscolaEntities.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaSelfHost\bin\Debug\EscolaService.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaSelfHost\bin\Debug\EscolaEntities.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaSelfHost\obj\Debug\EscolaSelfHost.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaSelfHost\obj\Debug\EscolaSelfHost.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaSelfHost\obj\Debug\EscolaSelfHost.pdb
+D:\10NET\FiapWCF\AulasWCF_2\EscolaSelfHost\bin\Debug\EscolaSelfHost.exe.config
+D:\10NET\FiapWCF\AulasWCF_2\EscolaSelfHost\bin\Debug\EscolaSelfHost.exe
+D:\10NET\FiapWCF\AulasWCF_2\EscolaSelfHost\bin\Debug\EscolaSelfHost.pdb
+D:\10NET\FiapWCF\AulasWCF_2\EscolaSelfHost\bin\Debug\EscolaService.dll
+D:\10NET\FiapWCF\AulasWCF_2\EscolaSelfHost\bin\Debug\EntityFramework.dll
+D:\10NET\FiapWCF\AulasWCF_2\EscolaSelfHost\bin\Debug\EscolaEntities.dll
+D:\10NET\FiapWCF\AulasWCF_2\EscolaSelfHost\bin\Debug\EscolaService.pdb
+D:\10NET\FiapWCF\AulasWCF_2\EscolaSelfHost\bin\Debug\EntityFramework.xml
+D:\10NET\FiapWCF\AulasWCF_2\EscolaSelfHost\bin\Debug\EscolaEntities.pdb
+D:\10NET\FiapWCF\AulasWCF_2\EscolaSelfHost\obj\Debug\EscolaSelfHost.csprojResolveAssemblyReference.cache
+D:\10NET\FiapWCF\AulasWCF_2\EscolaSelfHost\obj\Debug\EscolaSelfHost.exe
+D:\10NET\FiapWCF\AulasWCF_2\EscolaSelfHost\obj\Debug\EscolaSelfHost.pdb
