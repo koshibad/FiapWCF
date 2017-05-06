@@ -1,0 +1,27 @@
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\bin\Debug\EscolaClient.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\bin\Debug\EscolaClient.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\bin\Debug\EscolaClient.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\obj\Debug\EscolaClient.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\obj\Debug\EscolaClient.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\obj\Debug\EscolaClient.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\obj\Debug\EscolaClient.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\obj\Debug\EscolaClient.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaClient\obj\Debug\EscolaClient.pdb
+C:\Users\logonpf\Desktop\AulasWCF\EscolaClient\bin\Debug\EscolaClient.exe.config
+C:\Users\logonpf\Desktop\AulasWCF\EscolaClient\obj\Debug\EscolaClient.exe
+C:\Users\logonpf\Desktop\AulasWCF\EscolaClient\obj\Debug\EscolaClient.pdb
+C:\Users\logonpf\Desktop\AulasWCF\EscolaClient\bin\Debug\EscolaClient.exe
+C:\Users\logonpf\Desktop\AulasWCF\EscolaClient\bin\Debug\EscolaClient.pdb
+C:\Users\logonpf\Desktop\AulasWCF\EscolaClient\obj\Debug\EscolaClient.csprojResolveAssemblyReference.cache
+C:\Users\logonpf\Desktop\AulasWCF\EscolaClient\obj\Debug\EscolaClient.Form1.resources
+C:\Users\logonpf\Desktop\AulasWCF\EscolaClient\obj\Debug\EscolaClient.Properties.Resources.resources
+C:\Users\logonpf\Desktop\AulasWCF\EscolaClient\obj\Debug\EscolaClient.csproj.GenerateResource.Cache
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaClient\bin\Debug\EscolaClient.exe.config
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaClient\obj\Debug\EscolaClient.exe
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaClient\obj\Debug\EscolaClient.pdb
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaClient\bin\Debug\EscolaClient.exe
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaClient\bin\Debug\EscolaClient.pdb
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaClient\obj\Debug\EscolaClient.csprojResolveAssemblyReference.cache
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaClient\obj\Debug\EscolaClient.Form1.resources
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaClient\obj\Debug\EscolaClient.Properties.Resources.resources
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaClient\obj\Debug\EscolaClient.csproj.GenerateResource.Cache

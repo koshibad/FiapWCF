@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/EscolaEntities" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/EscolaEntities" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfDisciplina">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Disciplina" nillable="true" type="tns:Disciplina" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDisciplina" nillable="true" type="tns:ArrayOfDisciplina" />
+  <xs:complexType name="Disciplina">
+    <xs:sequence>
+      <xs:element name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Nome" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Disciplina" nillable="true" type="tns:Disciplina" />
+  <xs:complexType name="ArrayOfAluno">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Aluno" nillable="true" type="tns:Aluno" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfAluno" nillable="true" type="tns:ArrayOfAluno" />
+  <xs:complexType name="Aluno">
+    <xs:sequence>
+      <xs:element name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Nome" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Aluno" nillable="true" type="tns:Aluno" />
+  <xs:complexType name="Nota">
+    <xs:sequence>
+      <xs:element name="AlunoId" type="xs:int" />
+      <xs:element name="DisciplinaId" type="xs:int" />
+      <xs:element name="Pontos" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Nota" nillable="true" type="tns:Nota" />
+</xs:schema>

@@ -1,0 +1,36 @@
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaService\bin\Debug\EscolaService.dll.config
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaService\bin\Debug\EscolaService.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaService\bin\Debug\EscolaService.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaService\bin\Debug\EscolaEntities.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaService\bin\Debug\EscolaEntities.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaService\obj\Debug\EscolaService.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaService\obj\Debug\EscolaService.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaService\obj\Debug\EscolaService.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaService\bin\Debug\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaService\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaService\bin\Debug\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\logonpf\Desktop\AulasWCF\EscolaService\bin\Debug\EscolaService.dll.config
+C:\Users\logonpf\Desktop\AulasWCF\EscolaService\bin\Debug\EscolaService.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaService\bin\Debug\EscolaService.pdb
+C:\Users\logonpf\Desktop\AulasWCF\EscolaService\bin\Debug\EntityFramework.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaService\bin\Debug\EscolaEntities.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaService\bin\Debug\EscolaEntities.pdb
+C:\Users\logonpf\Desktop\AulasWCF\EscolaService\bin\Debug\EntityFramework.xml
+C:\Users\logonpf\Desktop\AulasWCF\EscolaService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\logonpf\Desktop\AulasWCF\EscolaService\obj\Debug\EscolaService.csprojResolveAssemblyReference.cache
+C:\Users\logonpf\Desktop\AulasWCF\EscolaService\obj\Debug\EscolaService.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaService\obj\Debug\EscolaService.pdb
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaService\bin\Debug\EscolaService.dll.config
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaService\bin\Debug\EscolaService.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaService\bin\Debug\EscolaService.pdb
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaService\bin\Debug\EntityFramework.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaService\bin\Debug\EscolaEntities.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaService\bin\Debug\EscolaEntities.pdb
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaService\bin\Debug\EntityFramework.xml
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaService\obj\Debug\EscolaService.csprojResolveAssemblyReference.cache
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaService\obj\Debug\EscolaService.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaService\obj\Debug\EscolaService.pdb

@@ -1,0 +1,117 @@
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\ApplicationInsights.config
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\roslyn\csc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\roslyn\System.Collections.Immutable.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\roslyn\vbc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\roslyn\VBCSCompiler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\roslyn\VBCSCompiler.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\EscolaIISHost.dll.config
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\EscolaIISHost.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\EscolaIISHost.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\EscolaService.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.AI.Web.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.AI.WindowsServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.ApplicationInsights.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\EscolaEntities.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\EscolaService.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.AI.Web.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.AI.WindowsServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.ApplicationInsights.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\EscolaEntities.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\obj\Debug\EscolaIISHost.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\obj\Debug\EscolaIISHost.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\obj\Debug\EscolaIISHost.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaIISHost\bin\EntityFramework.xml
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\ApplicationInsights.config
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\csc.exe
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\vbc.exe
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\VBCSCompiler.exe
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\EscolaIISHost.dll.config
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\EscolaIISHost.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\EscolaIISHost.pdb
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\EscolaService.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.Web.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.ApplicationInsights.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\EntityFramework.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\EscolaEntities.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\EscolaService.pdb
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.Web.xml
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.ApplicationInsights.xml
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\EntityFramework.xml
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\bin\EscolaEntities.pdb
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\obj\Debug\EscolaIISHost.csprojResolveAssemblyReference.cache
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\obj\Debug\EscolaIISHost.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaIISHost\obj\Debug\EscolaIISHost.pdb
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\ApplicationInsights.config
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\csc.exe
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\vbc.exe
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\VBCSCompiler.exe
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\EscolaIISHost.dll.config
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\EscolaIISHost.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\EscolaIISHost.pdb
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\EscolaService.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.Web.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\EntityFramework.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\EscolaEntities.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\EscolaService.pdb
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.Web.xml
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\EntityFramework.xml
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\bin\EscolaEntities.pdb
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\obj\Debug\EscolaIISHost.csprojResolveAssemblyReference.cache
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\obj\Debug\EscolaIISHost.dll
+C:\Users\fferrari2\Desktop\AulasWCF\EscolaIISHost\obj\Debug\EscolaIISHost.pdb

@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaEntities\bin\Debug\EscolaEntities.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaEntities\bin\Debug\EscolaEntities.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaEntities\obj\Debug\EscolaEntities.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaEntities\obj\Debug\EscolaEntities.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AulasWCF\EscolaEntities\obj\Debug\EscolaEntities.pdb
+C:\Users\logonpf\Desktop\AulasWCF\EscolaEntities\bin\Debug\EscolaEntities.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaEntities\bin\Debug\EscolaEntities.pdb
+C:\Users\logonpf\Desktop\AulasWCF\EscolaEntities\obj\Debug\EscolaEntities.csprojResolveAssemblyReference.cache
+C:\Users\logonpf\Desktop\AulasWCF\EscolaEntities\obj\Debug\EscolaEntities.dll
+C:\Users\logonpf\Desktop\AulasWCF\EscolaEntities\obj\Debug\EscolaEntities.pdb
